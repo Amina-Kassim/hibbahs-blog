@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Amina-Kassim/hibbahs-blog/precache-manifest.623cdc7f4800907db17d5776ea9a6b23.js"
+  "/Amina-Kassim/hibbahs-blog/precache-manifest.ec8b9c56d400b4d213bc33c4b7a4cc46.js"
 );
 
 self.addEventListener('message', (event) => {

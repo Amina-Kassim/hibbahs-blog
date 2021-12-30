@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02f1fc88fda96655affbd30d2a0dfe50",
+    "revision": "5c45bab83f2392f4e31f64e64b3d55fe",
     "url": "/Amina-Kassim/hibbahs-blog/index.html"
   },
   {
